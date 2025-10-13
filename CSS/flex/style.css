@@ -17,7 +17,12 @@
 #box-3{
     flex-grow: 4;
 }
-
+#box-6{
+    flex-shrink: 5;
+}
+#box-7{
+    flex-basis: 300px;
+}    
 
 .box{
     border: 2px solid red;
